@@ -16,8 +16,10 @@ def __():
 def __(mo):
     mo.md(
         r"""
-        # Una Integral Elegante Escondida En Una Bicicleta
+        # Una Elegante Integral Escondida En Una Bicicleta
 
+        ### Enrique Millan Valbuena
+        ### web.adapting.dev
 
         ---
         """
@@ -25,39 +27,9 @@ def __(mo):
     return
 
 
-@app.cell
-def __():
-    return
-
-
-@app.cell
-def __():
-    return
-
-
-@app.cell
-def __():
-    return
-
-
-@app.cell
-def __():
-    return
-
-
-@app.cell
-def __():
-    return
-
-
-@app.cell
-def __():
-    return
-
-
 @app.cell(hide_code=True)
 def __(mo):
-    mo.image("/Users/valbuena/git/github.com/pycones24-lightning-talk/diagram.png", height=500, rounded=True)
+    mo.image("/Users/valbuena/git/github.com/pycones24-lightning-talk/diagram.png", rounded=True)
     return
 
 
@@ -69,7 +41,7 @@ def __(mo):
 
         1. **No-deslizamiento** 
         1. Construir un **triángulo**
-        1. Encontrar el centro instantáneo de rotación  (CIR).
+        1. Encontrar el **centro instantáneo de rotación**  (CIR).
 
         ### **CIR + punto velocidad conocida = velocidad angular**.
 
@@ -230,7 +202,7 @@ def __(mo):
         \end{align}
         $$
 
-        ### Ecuaciones paramétricas 
+        ### Ecuaciones paramétricas finales
 
         $$
         \begin{align}
